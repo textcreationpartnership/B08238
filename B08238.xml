@@ -1,0 +1,221 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Animadversions on George Keith's account of a National Church, &amp;c. humbly presented to the Bishop of London, and on George Keith's advertisement concerning the same.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08238</idno>
+            <idno type="OCLC"> 124064072</idno>
+            <idno type="STC">Wing A11A</idno>
+            <idno type="STC">ESTC R173101</idno>
+            <idno type="EEBO-CITATION">124064072</idno>
+            <idno type="OCLC">ocn 124064072</idno>
+            <idno type="VID">192185</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08238)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 192185)</note>
+            <note>Images scanned from microfilm: (Early English books; 1641-1700 ; 2902:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Animadversions on George Keith's account of a National Church, &amp;c. humbly presented to the Bishop of London, and on George Keith's advertisement concerning the same.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>printed in the year, 1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Haverford College Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Keith, George, 1639?-1716. --  Account of a national church and the clergy --  Early works to 1800.</term>
+               <term>Established churches --  Early works to 1800.</term>
+               <term>Society of Friends --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="modern_bookplate">
+            <pb facs="tcp:192185:1" rendition="simple:additions"/>
+            <p>QUAKER RARE BOOKS</p>
+            <p>
+               <hi>Class</hi> 
+               <add>Fc K25</add>, <hi>no.</hi> 
+               <add>2221</add>
+            </p>
+            <p>FRIENDS' LIBRARY,<lb/> No. 142 NORTH SIXTEENTH STREET,<lb/> PHILADELPHIA</p>
+            <p>
+               <hi>Received,</hi> 
+               <add>11</add> 
+               <hi>Mo.</hi> 
+               <add>28</add>, 189<add>4</add>
+            </p>
+            <p>BY PURCHASE.</p>
+            <p>QUAKER RARE BOOKS</p>
+            <p>CLASS <add>BX7715</add> BOOK <add>K2A5</add>
+            </p>
+            <p>THE LIBRARY OF HAVERFORD COLLEGE</p>
+            <p>THE GIFT OF <add>Freinds Library, Phila.</add>
+            </p>
+            <p>
+               <add>4</add> MO. <add>23</add> 19<add>29</add>
+            </p>
+            <p>ACCESSION NO. <add>106815</add>
+            </p>
+            <p>
+               <add>Wing A11A Smith II: 46</add>
+            </p>
+            <pb facs="tcp:192185:1"/>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:192185:2" rendition="simple:additions"/>
+            <pb facs="tcp:192185:2" rendition="simple:additions"/>
+            <p>ANIMADVERSIONS ON <hi>George Keith</hi>'s ACCOUNT OF <hi>A National Church,</hi> &amp;c. Humbly Preſented to the Biſhop of <hi>LONDON,</hi> AND ON <hi>George Keith</hi>'s Advertiſement Concerning the ſame.</p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, 1700.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:192185:3" rendition="simple:additions"/>
+            <pb n="3" facs="tcp:192185:3"/>
+            <head>ANIMADVERSIONS ON <hi>George Keith</hi>'s Account <hi>Of a National Church,</hi> &amp;c.</head>
+            <p>IN his <hi>Advertiſement</hi> at the end of his Third Sermon, after Ordination, Preached at St. <hi>Helen</hi>'s, <hi>May</hi> 19. 1700. he complains, <hi>That in a Printed Sheet, called,</hi> Mr. <hi>George Keith</hi>'s Account, <hi>&amp;c.</hi> (as aforeſaid) <hi>is ſome Quotations long ſince Re<g ref="char:EOLhyphen"/>tracted and Diſowned by him, in a Book publiſhed, called,</hi> George Keith<hi>'s Retractations;</hi> and calls it, <hi>The Quakers Cheat and Abuſe, that are</hi> (he ſaith) <hi>ſtill Charging him with Errors he hath Retracted;</hi> and then cries out againſt the <hi>Blindneſs, Hardneſs of Heart, and Obſtinacy, that hath befallen them;</hi> and complains, <hi>they ſeek to Defame and Abuſe him, for his Retracting his Errors.</hi>
+            </p>
+            <p>
+               <hi>Animad.</hi> I have therefore Examined the Quotations, and find them right; and have alſo reviewed his Retractations, and do not find he hath been plain and particular therein. But ſeeing he now grants they are Errors, may I not con<g ref="char:EOLhyphen"/>clude then the contrary is Truth? And then let them, if he pleaſe, be read contrary, and ſee how he likes them.</p>
+            <div type="part">
+               <pb n="4" facs="tcp:192185:4" rendition="simple:additions"/>
+               <head>Example.</head>
+               <div type="section">
+                  <head>Concerning a National Church.</head>
+                  <p>He doth (now he's turn'd Churchman) acknow<g ref="char:EOLhyphen"/>ledge, That a National Church can be a true <hi>Church of Chriſt,</hi> and that Men ſhould make Prepoſterous haſte to make Nations <hi>Churches,</hi> by meer humane Law and Power; and that bare humane Laws, Edicts and Decrees, will do it; and indeed this hath <hi>not</hi> been the Ground and Riſe of all Perſecution that hath been in <hi>Chiſtendom;</hi> and thoſe that will have a National Church, would not have others bow to, and joyn with them, and never was a <hi>Perſecuting Church,</hi> it is not in her very <hi>Nature:</hi> So it cannot be always exceeding Hypocritical, ſeeing it beget<g ref="char:EOLhyphen"/>teth Thouſands to be its Children and Members, by <hi>meer Will</hi> and <hi>Power</hi> of Man, which doth not at all make <hi>Hypocrites.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>Concerning the Teachers.</head>
+                  <p>Now he is become one, and pretends to Diſown what he formerly writ: Read that the contrary way thus,</p>
+                  <p>The <hi>Teachers</hi> have not been generally, and for the moſt part, <hi>Self-ſeeking, Worldly-minded Covetous Men,</hi> who loved <hi>Pleaſures</hi> and <hi>Riches</hi> more than <hi>God.</hi> And this the <hi>Magi<g ref="char:EOLhyphen"/>ſtrate</hi> did <hi>not</hi> well know, and ſaw not that the beſt way to prevent them, was to <hi>
+                        <hi>Bribe</hi> them</hi> with <hi>Augmentations</hi> and <hi>Benefices.</hi> — The Preachers of the <hi>Waldenſes</hi> were not moſt of them <hi>Lay-men,</hi> and wrought not with their Hands; <hi>as the Teachers of the Primitive Church did</hi> not, but had <hi>Stipends</hi> or <hi>Sallaries,</hi> and <hi>Preached</hi> not Freely again. If People once were Perſwaded and Convinced, That God did not <hi>Teach,</hi> nor would not <hi>Teach</hi> them; and then <hi>up</hi> ſhould all the <hi>Proud, Lording, Lofty Clergy, with their many Degrees of Doctorſhips, Lordſhips and Maſter<g ref="char:EOLhyphen"/>ſhips</hi> go.</p>
+                  <pb n="5" facs="tcp:192185:4"/>
+                  <p> 
+                     <hi>Animad.</hi> And now he is willing to <hi>go with them,</hi> altho' he declared, It lay upon him from the Lord <hi>to depart from them,</hi> being generally Men void of all Senſe and Feeling of God, that had Framed and Invented perverſe Doctrine, for their own <hi>Gains</hi> and <hi>Ends,</hi> as he now doth. But not to proceed to farther Examples of this kind, let us conſi<g ref="char:EOLhyphen"/>der, whether <hi>G. K.</hi> did ever, or doth, judge Baptiſm with Water, as uſed in the Church, of which he is now ordained a Preacher, and the Sacrament, Articles of Faith, or are any of the Fundamental and Eſſential Do<g ref="char:EOLhyphen"/>ctrines of Chriſtianity; becauſe he hath declared in his Preface to his <hi>Retractations</hi> thus, <hi>viz.</hi> 
+                     <q>I have not here, or elſewhere, Retracted nor Renounced any one Aſſer<g ref="char:EOLhyphen"/>tion contained in any of my former Books, that ever was by me Judged an <hi>Article of Faith.</hi>
+                     </q> And in p. 4, 5. of his <hi>Retractations,</hi> he ſaith, <q>I have an Infallible Faith and Perſwaſion, touching the Fundamental and Eſſential Doctrines of Chriſtianity.</q>
+                  </p>
+                  <p>Therefore he having ſaid,<note place="margin">
+                        <hi>Truth's Defence,</hi> &amp;c. p. 135.</note>
+                     <q>That Baptiſm with Water is not meant, becauſe not expreſſed, nor by any true and juſt Conſequence is proved to be meant, in <hi>Mat.</hi> 28.19.</q> Neither this Aſſertion, nor any other in any of his for<g ref="char:EOLhyphen"/>mer Books, is (that ever was by him Judged an Article of Faith) Retracted.</p>
+                  <p>Again,<note place="margin">
+                        <hi>Retract.</hi> p. 34.</note>
+                     <q>I ſtill adhere to my former Advice, That no<g ref="char:EOLhyphen"/>thing be required by one ſort from another, as an Ar<g ref="char:EOLhyphen"/>ticle of Faith or Doctrine, in common to be believed, but what is <hi>expreſly</hi> declared in the Scriptures, in <hi>plain</hi> and expreſs Scripture-Terms.</q>
+                  </p>
+                  <p>
+                     <hi>Animad.</hi> To try his Sincerity, or ſhew his Deceit, let him that would Say and Unſay, prove from what is ex<g ref="char:EOLhyphen"/>preſly delivered in the Scripture, and in plain and ex<g ref="char:EOLhyphen"/>preſs Scripture-Terms,
+<list>
+                        <item>1. That Baptiſm with Water is meant in <hi>Mat.</hi> 28.19.</item>
+                        <item>2. That Infants are the Subjects intended.</item>
+                     </list>
+                  </p>
+                  <pb n="6" facs="tcp:192185:5" rendition="simple:additions"/>
+                  <p> And let him bring plain and expreſs Scripture for the uſe of the Sign of the Croſs in Baptiſm, and requiring Godfathers and Godmothers, if he can, and obliging them to promiſe and vow Three things in the Childrens Name, That they ſhall forſake the Devil and all his Works, <hi>&amp;c.</hi>
+                  </p>
+                  <p>And let him, by Scripture, and from what is expreſly delivered therein, in plain and expreſs Scripture-Terms, anſwer the Queries <hi>he</hi> put, and printed, concerning the <hi>Sacrament</hi> of the <hi>Lord's Supper,</hi> ſo called, or for ſhame forbear his <hi>Prating</hi> and <hi>Printing</hi> againſt thoſe that, by the Rule he lays down, he is no more able to prove them guilty of any Fundamental Error in the Chriſtian Reli<g ref="char:EOLhyphen"/>gion, or of any of the Errors he hath falſly and loudly Charged them with, than to move the Monument; al<g ref="char:EOLhyphen"/>though he may uſe his Meanings, Interpretations and Gloſſes; in which he hath been too Guilty to be creditted by them that well know him.</p>
+                  <p>And for all his Preferment and Ordination, his Black Coat, and White Surplice, and Empty Noiſe about Out<g ref="char:EOLhyphen"/>ward Things, in his late Sermon, and pleading for Set Forms of Prayers, he doth but ſhew his Contradictions and Confuſion. For he ſaith,<note place="margin">
+                        <hi>Retract.</hi> p. 12.</note>
+                     <q>I would not have any to think, I Relinquiſh my Teſtimony to Chriſt's <hi>inward</hi> Appearance <hi>in</hi> the Souls of Men, and God's Inward Re<g ref="char:EOLhyphen"/>velation and Teaching by his Spirit <hi>in</hi> Men; for I remain in the <hi>ſame Teſtimony,</hi> as to the Main, and I hope ſo to do.</q> So that all may conſider, that before he was Received into the Church, and Ordained a Preacher, he had an Infallible Faith and Perſwaſion, touching the Fun<g ref="char:EOLhyphen"/>damental and Eſſential Doctrines of Chriſtianity, and he would not be thought to Relinquiſh it.</p>
+                  <p>He ſaith,<note place="margin">
+                        <hi>Retract.</hi> p. 13.</note>
+                     <q>I remain Conſtant to my former Principles, with reſpect to the great Doctrines of the Chriſtian Faith.</q>—With my preſent Faith they agree.</p>
+                  <pb n="7" facs="tcp:192185:5"/>
+                  <p> So that he was not Erroneous when a <hi>Quaker,</hi> as to the great Doctrines of the Chriſtian Faith, nor in his Vindica<g ref="char:EOLhyphen"/>ting the <hi>Quakers</hi> Doctrines; and yet he would have the <hi>Quakers</hi> guilty of groſs and vile Errors, Hereſies, Denying the Lord that Bought them, <hi>&amp;c.</hi> which makes me fear, he hath ſold himſelf to do Wickedly. For it is evident to thoſe that knows them, and are rightly acquainted with their Doctrines, and that have obſerved their Con<g ref="char:EOLhyphen"/>verſations, and are not Prejudiced and filled with Ill-will againſt them, (which never ſpeaks well) that they do truly and ſincerely Own, and firmly Believe the Holy Scriptures, and all Doctrines therein contained, both with reſpect to God, Chriſt, the Holy Spirit, or Word of God: <q>And by Believing in the Light, Spirit, and Word within,</q> (as <hi>G. K.</hi> ſaith, p. 22. of his <hi>Retractations</hi>) <q>we are brought naturally to own the Scriptures, and the things therein declared; to own <hi>Moſes</hi> and the <hi>Prophets,</hi> to own the Diſpenſation of God to the <hi>Jews</hi> in that day, and to own Chriſt in the Fleſh, his Miraculous Birth, his Doctrine and Miracles, Sufferings, Death, Reſur<g ref="char:EOLhyphen"/>rection, and Aſcenſion; together with the Wonderful End and Deſign of God therein, <hi>&amp;c.</hi> And this Me<g ref="char:EOLhyphen"/>thod I very well approve of ſtill.</q> And ſo do the <hi>Qua<g ref="char:EOLhyphen"/>kers;</hi> and therefore are many among them ſo Laborious and Earneſt, to turn People to this <hi>Light, Spirit,</hi> and <hi>Word</hi> within, and are willing not only to ſpend and be ſpent, but do ſpend and are ſpent, to bring People to Believe therein, and only for the Good and Benefit of their Souls, and not for filthy Lucre ſake.</p>
+                  <p>And altho' he ſaith, He very well approves this Method yet through Conceitedneſs his ſtrong Will, great Paſ<g ref="char:EOLhyphen"/>ſion, abominable Pride, impatiency under Contradiction, and being filled with Rage and Prejudice, he is attained to that degree, that he can now not only confidently Contradict what he once call'd <hi>Truth,</hi> (and what he alſo
+<pb n="8" facs="tcp:192185:6" rendition="simple:additions"/>affirm'd in the Name of the Lord) but himſelf alſo.</p>
+                  <p>And although he pretended with a free and willing Mind, to make a general Retraction of all the hard Names, and uncharitable Cenſures,<note place="margin">
+                        <hi>Retract.</hi> p. 44.</note>
+                     <q>he hath at any time, either by word or writ paſt, on any—humbly deſiring their forgiveneſs.</q> He hath in his Advertiſement on a Hearſay Story, cryed out of a <hi>Quaker-Cheat;</hi> this is their Cheat and Abuſe; and charges them by whole<g ref="char:EOLhyphen"/>ſale, with ſeeking to <hi>Defame</hi> and <hi>Abuſe</hi> him, and cries out <hi>Abuſe</hi> and <hi>Shame,</hi> and all by Hearſay, and on Pre<g ref="char:EOLhyphen"/>ſumption. But it's to be feared, he's now ſo uſed to Confeſſing, that he don't mind to Forſake: But it's <hi>He that Confeſſeth and forſaketh, that ſhall find Mercy.</hi> But his Building the things which he once Deſtroyed, hath made himſelf a Tranſgreſſor.</p>
+                  <p>So Requiring him, by plain and expreſs Scripture, and in expreſs Scripture-Terms, to anſwer what he hath writ againſt Water-Baptiſm and the Supper, and particularly the Ten Queries, that he delivered to him and his Bre<g ref="char:EOLhyphen"/>thren, that call that Eating of Bread, and Drinking of Wine, once or twice in a Year, in the Publick Aſſem<g ref="char:EOLhyphen"/>bly, the <hi>Sacrament,</hi> as <hi>G. K.</hi> and his <hi>Brethren</hi> now do; <hi>For,</hi> according to the Proverb, <hi>what's Sauce for the Gooſe, is Sauce for the Gander.</hi> And there are many other things, which he now practiſeth, he ought to bring <hi>plain</hi> and <hi>expreſs</hi> Scripture for.</p>
+                  <p>So I ſhall now conclude; beware that thou be not de<g ref="char:EOLhyphen"/>ceived, and brought down in thy Jollity, <hi>Eccleſ.</hi> 1<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.8. For an envious Man hath a wicked Eye; he turneth away his Face, and deſpiſeth Men. Let him, and thoſe concerned with him, therefore Read and Apply <hi>Iſai.</hi> 3.9. <hi>Jer.</hi> 2.19. and <hi>Hoſ.</hi> 5.5, 6, 7.</p>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:192185:6"/>
+         </div>
+      </body>
+   </text>
+</TEI>
